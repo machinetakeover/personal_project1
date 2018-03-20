@@ -1,3 +1,5 @@
+// deployment branch
+
 $(document).ready(function () {
   $.ajax({
     url: '/maps',
@@ -7,8 +9,6 @@ $(document).ready(function () {
       renderMapElements(maps);
     }
   })
-
-
 
   /* ----- Functions ----- */
 
