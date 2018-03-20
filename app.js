@@ -1,5 +1,3 @@
-// deployment branch
-
 $(document).ready(function () {
   $.ajax({
     url: '/maps',
